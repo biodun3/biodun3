@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Project:</h2>
 
 - <b>Data Sorting, Filtering and Visualiztion using Excel</b>
-  - [CRM+SALES+OPPORTUNITY](https://https://github.com/biodun3/CRM-SALES-OPPORTUNITIES)
+  - [CRM+SALES+OPPORTUNITY](https://github.com/biodun3/CRM-SALES-OPPORTUNITIES)
 - <b>Creating Dashboard using Tableau to Analysis data</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data visualization on PowerBI</b>
