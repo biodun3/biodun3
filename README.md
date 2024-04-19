@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Analysis Project:</h2>
 
 - <b>Data Sorting, Filtering and Visualiztion using Excel</b>
-  - [CRM+SALES+OPPORTUNITY](https://github.com/biodun3/CRM-SALES-OPPORTUNITIES)
+  - [CRM+SALES+OPPORTUNITY(EXCEL)](https://github.com/biodun3/CRM-SALES-OPPORTUNITIES)
 - <b>Creating Dashboard using Tableau to Analyse data</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [CRM+SALES+OPPORTUNITY(TABLEAU)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data visualization on PowerBI</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
