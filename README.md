@@ -9,7 +9,7 @@
 - <b>Data visualization on PowerBI</b>
   - [POWERBI](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Solving Real Life Data Problem With SQL</b>
-  - [PIZZA+PLACE+SALES(SQL)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [PIZZA+PLACE+SALES(SQL)](https://github.com/biodun3/PIZZA_SALES-SQL-)
 
 <h2> 🤳 Connect with me:</h2>
 
