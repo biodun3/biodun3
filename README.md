@@ -6,8 +6,6 @@
   - [CRM+SALES+OPPORTUNITY(EXCEL)](https://github.com/biodun3/CRM-SALES-OPPORTUNITIES)
 - <b>Creating Dashboard using Tableau to Visualise and Analyse data</b>
   - [CRM+SALES+OPPORTUNITY(TABLEAU)](https://github.com/biodun3/CRM-SALES-OPPORTUNITIES-TABLEAU-)
-- <b>Data visualization on PowerBI</b>
-  - [POWERBI](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Solving Real Life Data Problem With SQL</b>
   - [PIZZA+PLACE+SALES(SQL)](https://github.com/biodun3/PIZZA_SALES-SQL-)
 
