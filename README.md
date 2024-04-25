@@ -8,7 +8,7 @@
   - [CRM+SALES+OPPORTUNITY(TABLEAU)](https://github.com/biodun3/CRM-SALES-OPPORTUNITIES-TABLEAU-)
 - <b>Data visualization on PowerBI</b>
   - [POWERBI](https://github.com/joshmadakor1/Sentinel-Lab)
- - <b>Solving Real Life Data Problem With SQL</b>
+- <b>Solving Real Life Data Problem With SQL</b>
   - [PIZZA+PLACE+SALES(SQL)](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2> 🤳 Connect with me:</h2>
